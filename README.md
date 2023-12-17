@@ -13,5 +13,6 @@
 </p>
 
 <p>
+  <img src="bank_app/public/project-ss/Client.png" height="300" width="500" />
   <img src="bank_app/public/project-ss/Footer.png" height="300" width="500" />
 </p>

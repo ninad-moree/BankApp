@@ -9,7 +9,7 @@
 
 <p>
   <img src="bank_app/public/project-ss/Business.png" height="300" width="500" />
-  <img src="bank_app/public/project-ss/Client.png" height="300" width="500" />
+  <img src="bank_app/public/project-ss/Screenshot 2023-12-17 172755.png" height="300" width="500" />
 </p>
 
 <p>

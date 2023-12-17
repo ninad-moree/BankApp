@@ -36,3 +36,7 @@ const App = () => {
 }
 
 export default App
+
+/*
+  npm run dev
+*/
